@@ -1,11 +1,16 @@
 _repo: Laulu-Ihanista-silmista-b-Runoja_71763
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Haavio, Martti
     gutenberg_agent_id: '56387'
     url: http://www.gutenberg.org/2009/agents/56387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71763#Laulu-Ihanista-silmista-b-Runoja
 gutenberg_issued: '2023-09-30'
 identifiers:
   gutenberg: '71763'
